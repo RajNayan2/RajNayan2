@@ -222,7 +222,24 @@ I'm always open to new opportunities, collaborations, or just a friendly chat ab
 
 [![GitHub followers](https://img.shields.io/github/followers/RajNayan2?style=social)](https://github.com/RajNayan2)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle -->
+[![Twitter Follow]## Installation
+
+### Using npm
+```bash
+npm install your-package
+```
+
+### Using yarn
+```bash
+yarn add your-package
+```
+
+### Using pnpm
+```bash
+pnpm add your-package
+```
+
+(https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle -->
 
 </div>
 
