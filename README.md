@@ -10,7 +10,7 @@ Hello! I'm RAJ NAYAN, a **Code Connoisseur** passionate about **launching ideas 
 
 I thrive in dynamic environments where I can leverage my skills to tackle complex problems and contribute to impactful projects. Whether it's crafting elegant frontend interfaces or architecting powerful backend systems, I'm always eager to learn, adapt, and innovate.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Full+Stack+Developer;Cloud+Enthusiast;Open+Source+Advocate;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Full+Stack+Developer;Cloud+Enthusiast;Open+Source+Advocate;Problem+Solver)](https://git.io/typing-svg)  
 
 ## 🔭 Current Focus
 
