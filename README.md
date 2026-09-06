@@ -14,11 +14,12 @@ I thrive in dynamic environments where I can leverage my skills to tackle comple
 
 ## 🔭 Current Focus
 
-- 🔭 Working on: **[Your Main Project]** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **[Technology/Skill you're currently learning]** <!-- TODO: Add what you're currently learning -->
-- 👯 Looking to collaborate on: **Innovative Full Stack applications & Open Source initiatives**
-- 💬 Ask me about: **Web Development, Cloud Architectures, and System Design** <!-- TODO: Add your specific areas of expertise -->
-- ⚡ Fun fact: **I love exploring new hiking trails in my free time!** <!-- TODO: Add a fun fact about you -->
+-* 🔭 Working on: **Personal Finance Management System**
+* 🌱 Learning: **Full Stack Development, Java, and AI Technologies**
+* 👯 Looking to collaborate on: **Innovative Full Stack applications & Open Source projects**
+* 💬 Ask me about: **Java, JavaScript, SQL, DBMS, and Web Development**
+* ⚡ Fun fact: **I enjoy exploring new technologies and turning ideas into practical projects!**
+
 
 ---
 
